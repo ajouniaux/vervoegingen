@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  input,
+  button {
+    font-size: 1.2em;
+  }
+  
+  #feedback {
+    color: red;
+    font-size: 1.1em;
+    margin: 1em 0;
+  }
+  
+  #score,
+  #timer {
+    font-size: 1.2em;
+  }
+  
